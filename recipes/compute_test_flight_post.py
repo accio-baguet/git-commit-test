@@ -12,7 +12,7 @@ flight_data_df = flight_data.get_dataframe()
 # TODO: Replace this part by your actual code that computes the output, as a Pandas dataframe
 # NB: DSS also supports other kinds of APIs for reading and writing data. Please see doc.
 
-print("test")
+print("hello world")
 
 test_flight_post_df = flight_data_df # For this sample code, simply copy input to output
 
