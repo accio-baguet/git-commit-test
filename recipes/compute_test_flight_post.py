@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+import dataiku
+import pandas as pd, numpy as np
+from dataiku import pandasutils as pdu
+
+# Read recipe inputs
+flight_data = dataiku.Dataset("flight_data")
+flight_data_df = flight_data.get_dataframe()
+
+
+# Compute recipe outputs from inputs
+# TODO: Replace this part by your actual code that computes the output, as a Pandas dataframe
+# NB: DSS also supports other kinds of APIs for reading and writing data. Please see doc.
+
+test_flight_post_df = flight_data_df # For this sample code, simply copy input to output
+
+
+# Write recipe outputs
+test_flight_post = dataiku.Dataset("test_flight_post")
+test_flight_post.write_with_schema(test_flight_post_df)
