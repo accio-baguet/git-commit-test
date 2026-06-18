@@ -4,6 +4,10 @@
       "remote": "git@github.com:accio-baguet/git-sync-test.git",
       "checkout": "refs/heads/main",
       "remotePath": "",
+      "lastHash": "1ee481dcc5d140967db886133b14476323c1d119",
+      "conflictingFiles": [],
+      "resolvedFiles": [],
+      "faultyHash": "",
       "isDirty": false
     }
   },
