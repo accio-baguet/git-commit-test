@@ -4,11 +4,11 @@
       "remote": "git@github.com:accio-baguet/git-sync-test.git",
       "checkout": "refs/heads/main",
       "remotePath": "",
-      "lastHash": "1ee481dcc5d140967db886133b14476323c1d119",
+      "lastHash": "59fbc2f3d1b7b12ff2a189a8e79f6280f6f93337",
       "conflictingFiles": [],
       "resolvedFiles": [],
       "faultyHash": "",
-      "isDirty": true
+      "isDirty": false
     }
   },
   "pythonPath": [
