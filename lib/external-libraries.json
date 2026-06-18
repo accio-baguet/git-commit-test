@@ -1,19 +1,6 @@
 {
-  "gitReferences": {
-    "python": {
-      "remote": "git@github.com:accio-baguet/git-commit-test.git",
-      "checkout": "refs/heads/master",
-      "remotePath": "",
-      "lastHash": "59bcfcf0a0d727d387f960294daa9fbb90ce6ecb",
-      "conflictingFiles": [],
-      "resolvedFiles": [],
-      "faultyHash": "",
-      "isDirty": false
-    }
-  },
-  "pythonPath": [
-    "python"
-  ],
+  "gitReferences": {},
+  "pythonPath": [],
   "rsrcPath": [
     "R"
   ],
