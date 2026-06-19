@@ -1,5 +1,5 @@
 """Another test package for Doc Portal repro."""
 
-def ping():
+def pingstagram():
     """Return another test string."""
     return "ok"
