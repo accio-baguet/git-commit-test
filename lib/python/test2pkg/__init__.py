@@ -1,4 +1,4 @@
-"""Probe package for Doc Portal repro."""
+"""Another test package for Doc Portal repro."""
 
 def ping():
     """Return another test string."""
