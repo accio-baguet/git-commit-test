@@ -13,6 +13,8 @@ flight_data_df = flight_data.get_dataframe()
 # NB: DSS also supports other kinds of APIs for reading and writing data. Please see doc.
 
 print("hello, world!")
+print("hello, test!")
+
 
 test_flight_post_df = flight_data_df # For this sample code, simply copy input to output
 
